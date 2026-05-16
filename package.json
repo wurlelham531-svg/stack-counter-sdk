@@ -1,6 +1,6 @@
 {
   "name": "stack-counter-sdk",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "TypeScript SDK for collaborative on-chain counters on the Stacks blockchain — increment, snapshot, audit history.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
